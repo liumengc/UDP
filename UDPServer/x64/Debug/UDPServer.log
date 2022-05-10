@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\vs2019 project\UDPServer\main.cpp(33,73): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  UDPServer.vcxproj -> E:\vs2019 project\UDPServer\x64\Debug\UDPServer.exe
